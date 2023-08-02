@@ -1,0 +1,1 @@
+console.log("Hola, mi nombre es Marco Adair Rojas Sanchez, pero la mayoria de mis amigos y familiares me dicen 'Dadis', me gusta mucho el deporte, sobre todo la calistenia, el futbol y el boxeo, me gusta siempre seguir aprendiendo cosas nuevas");
